@@ -5,4 +5,4 @@
  - css code rewrite echo with the html element order
 # Submission
  - repo address:https://github.com/Jinlly/Horiseon.git
- - deploy address :
+ - deploy address : https://jinlly.github.io.
